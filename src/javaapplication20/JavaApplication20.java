@@ -18,8 +18,9 @@ public class JavaApplication20
     public static void main(String[] args)
     {
         System.out.println("No funciona esta wea");
-        System.out.println("Chupala diego ql");
+        System.out.println("Nose que escribir");
         System.out.println("Holi diego");
+        System.out.println("Hola , veamos si se puede subir");
     }
     
 }
